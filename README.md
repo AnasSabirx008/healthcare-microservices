@@ -1,4 +1,8 @@
+## Schéma d'Architecture
 
+Voici le schéma d'architecture complet du projet pour vous aider à le tracer et à le visualiser facilement :
+
+```text
                                 [ Machine Locale (Développeur) ]
                                                │
                                                │ (Seeding SQL - Port 3306)
